@@ -21,3 +21,6 @@ print w + e
 text = "I am %d years old." % 22
 print "%%s is-> I said: %s." % text
 print "%%r is-> I said: %r." % text
+
+#利用三引号（ """or”’），你可以指示一个多行的字符串。你可以在三引号中自由
+#的使用单引号和双引号。例如：
